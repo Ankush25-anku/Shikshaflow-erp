@@ -137,7 +137,7 @@ const HeroBanner1 = () => {
                     alignSelf: "flex-end",
                     maxWidth: "75%"
                   }}>
-                    Show my child's marks
+               Show my child&apos;s marks
                   </div>
 
                   <div style={{
