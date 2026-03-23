@@ -147,7 +147,7 @@ const HeroBanner1 = () => {
                     alignSelf: "flex-start",
                     maxWidth: "75%"
                   }}>
-                    📊 Rahul's Marks:<br />
+                    📊 Rahul&apos;s Marks:<br />
                     Maths: 92<br />
                     Science: 88
                   </div>
