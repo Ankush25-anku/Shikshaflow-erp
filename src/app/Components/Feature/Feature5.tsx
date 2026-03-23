@@ -50,7 +50,7 @@ const Feature5 = () => {
                 Our smart chatbot handles admission enquiries, attendance, homework, 
                 marks, and notifications automatically — saving time for your staff.
               </p>
-              <img src="/assets/img/border-shape.png" alt="Border shape" />
+              <Image src="/assets/img/border-shape.png" alt="Border shape" />
             </div>
           </div>
 
